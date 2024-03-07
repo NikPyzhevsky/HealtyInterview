@@ -35,6 +35,7 @@ yarn android
 ### For iOS
 
 ```bash
+npx pod-install
 # using npm
 npm run ios
 
